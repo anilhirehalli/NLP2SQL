@@ -1,0 +1,17 @@
+{
+	"select": {
+		"column": "IA1",
+		"type": "['AVG']"
+	},
+	"from": {
+		"table": "analog"
+	},
+	"join": {
+	},
+	"where": {
+	},
+	"group_by": {
+	},
+	"select": {
+	},
+}
