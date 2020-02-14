@@ -1,7 +1,7 @@
 # NLP2SQL
 
 This project was built to help people use normal english to get what they want from the database. Our aim is qute high but 
-frankly, our project needs a lot of improvement. We can use this application in railway services where the user may type in their question and it should be able to return the answer by interacting with database. This project currently supports English only. 
+frankly, our project needs a lot of improvement to reach this goal. We can use this application in railway services where the user may type in their question and it should be able to return the answer by interacting with database. This project currently supports English only. 
 
 	python:- 3.7
 	OS:- Ubuntu 16.04
