@@ -35,6 +35,6 @@ To run the program, you have 2 methods:-
 
 2. Through the gui by running nlp2sql_with_gui.py using commandline when terminal/commandline is open in NLP2SQL Folder
 
-   	python3 nlp2sql_with_gui.py 
+   		python3 nlp2sql_with_gui.py 
 
    or running this file in your IDE.
