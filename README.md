@@ -3,14 +3,13 @@
 This project was built to help people use normal english to get what they want from the database. Our aim is qute high but 
 frankly, our project needs a lot of improvement. We can use this application in railway services where the user may type in their question and it should be able to return the answer by interacting with database. This project currently supports English only. 
 
-python:- 3.7
+	python:- 3.7
+	OS:- Ubuntu 16.04
 
-OS:- Ubuntu 16.04
+	Libraries:-
 
-Libraries:-
-
-1. MySQLdb
-2. speech_recognition
+	1. MySQLdb
+	2. speech_recognition
 
 Currently the databaseis fixed to school.sql in database_store folder. If you want to use a different SQL database, you can 
 change it in the program or change the school.sql file. 
@@ -38,4 +37,4 @@ To run the program, you have 2 methods:-
 
    	python3 nlp2sql_with_gui.py 
 
-or running this file in your IDE.
+   or running this file in your IDE.
