@@ -5,6 +5,7 @@ frankly, our project needs a lot of improvement. We can use this application in 
 question and it should be able to return the answer by interacting with database. This project currently supports English only. 
 
 python:- 3.7
+
 OS:- Ubuntu 16.04
 
 Libraries:-
@@ -23,11 +24,16 @@ To run the program, you have 2 methods:-
 	python3 main.py 
 	
 	'-d', '--database'    - Path to SQL dump file
-    '-l', '--language'    - Path to language configuration file
-    '-i', '--sentence'	  - Input sentence to parse
-    '-j', '--json_output' - path to JSON output file
-    '-t', '--thesaurus'	  - path to thesaurus file
-    '-s', '--stopwords'   - path to stopwords file
+    
+    	'-l', '--language'    - Path to language configuration file
+   	
+	'-i', '--sentence'    - Input sentence to parse
+    
+    	'-j', '--json_output' - path to JSON output file
+    
+    	'-t', '--thesaurus'   - path to thesaurus file
+    
+    	'-s', '--stopwords'   - path to stopwords file
 
 2. Through the gui by running nlp2sql_with_gui.py using commandline when terminal/commandline is open in NLP2SQL Folder
 
