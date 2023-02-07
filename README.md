@@ -40,6 +40,6 @@ To run the program, you have 2 methods:-
    or running this file in your IDE.
    
    
-   Reference -
+## Reference -
    
-   Our inspiration, architecture and some part of the code base is from https://github.com/FerreroJeremy/ln2sql 
+Our inspiration, architecture and some part of the code base is from https://github.com/FerreroJeremy/ln2sql 
